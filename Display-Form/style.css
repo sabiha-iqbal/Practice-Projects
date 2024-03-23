@@ -1,0 +1,18 @@
+.text-name{
+border-bottom: 2px solid rgb(211, 3, 142); 
+} 
+h5{
+    color: rgb(211, 3, 142);
+}
+button{
+    color: white;
+    background-color: rgb(211, 3, 142);
+    cursor: pointer;
+}
+p,h2{
+    margin: 10px;
+    color: rgb(211, 3, 142);
+}
+body{
+    align-items: center;
+}
